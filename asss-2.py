@@ -101,7 +101,7 @@ def main():
         make_video(name,n,time)
         st.success(result)
         email = "siddharthchaudhary0007@gmail.com"
-        password = "siddharth0007"
+        password = ""
         to = rec_email
         subject = "Email with Attachment from Streamlit app"
         body = "This is a test email with attachment sent from a Streamlit app."
